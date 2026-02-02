@@ -1,0 +1,14 @@
+[
+  {
+    "region": "emea",
+    "latency_ms": 170,
+    "uptime": 0.99,
+    "timestamp": "..."
+  },
+  {
+    "region": "apac",
+    "latency_ms": 190,
+    "uptime": 0.97,
+    "timestamp": "..."
+  }
+]
